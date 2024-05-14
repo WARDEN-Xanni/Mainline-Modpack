@@ -3,6 +3,9 @@
 ### v1.0.3
 
 - The first attempt worked! The changelog looks nice
+- Better Flashlight is being evaluated
+- Nightmare Foxy removed
+- Lethal Bestiary removed
 
 ### v1.0.2
 
