@@ -1,5 +1,12 @@
 # Changelog
 
+### v1.1.5
+
+- Added StarshipDeliveryMod
+- Added DynamicJesterCrank
+- Added BrackenMenu
+- Added Emblem (Dependency)
+
 ### v1.1.0
 
 - Regenerated FasterItemDropship config
