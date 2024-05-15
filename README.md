@@ -1,5 +1,28 @@
 # Changelog
 
+### v1.1.0
+
+- Regenerated FasterItemDropship config
+- Changed FasterItemDropship config
+- Added AnnounceMoonAndWeatherChange
+- Added ApparatusFix
+- Removed ReservedUtilitySlot
+- Removed TerminalFormatter
+- Removed TerminalDisplaySync
+- Increased hotbar slots from 4 -> 5
+- The hotbar will now fade completely
+- Increased max speed of Missile Turret missiles
+- Increased minimum Missile Turrets
+- Pushed lockout start time forward to roughly 11 AM
+- Fire Exits are no longer affected by the lockout
+- Brackens now have a small chance to instakill even when not alone
+- Brackens now gradually damage snatched victims
+- Brackens now autokill snatched victims after 60 seconds
+- Abandoned pro & normal flashlights no longer spawn
+- Lowered survival bonus from 100 -> 80
+- Terminal reboot for ghostcodes suppression success chance increased
+- Max battery spawns increased
+
 ### v1.0.5
 
 - Added TerminalFormatter
