@@ -1,5 +1,9 @@
 # Changelog
 
+### v1.1.6
+
+- Changed description
+
 ### v1.1.5
 
 - Added StarshipDeliveryMod

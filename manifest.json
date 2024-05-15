@@ -1,8 +1,8 @@
 {
   "name": "Mainline_Modpack",
-  "version_number": "1.1.5",
+  "version_number": "1.1.6",
   "website_url": "",
-  "description": "Modpack for Mainline Users",
+  "description": "QOL Modpack with some Custom Mechanics & Enemies",
   "dependencies": [
 "BepInEx-BepInExPack-5.4.2100",
 "Evaisa-HookGenPatcher-0.0.5",
