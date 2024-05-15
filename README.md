@@ -1,5 +1,10 @@
 # Changelog
 
+### v1.0.4
+
+- Updated FacilityMeltdown
+- Config Tweaks
+
 ### v1.0.3
 
 - The first attempt worked! The changelog looks nice
