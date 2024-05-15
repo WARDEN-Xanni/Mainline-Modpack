@@ -1,5 +1,12 @@
 # Changelog
 
+### v1.0.5
+
+- Added TerminalFormatter
+- Added TerminalDisplaySync
+- Removed DoorBreach
+- Removed BetterFlashlight
+
 ### v1.0.4
 
 - Updated FacilityMeltdown
