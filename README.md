@@ -1,5 +1,11 @@
 # Changelog
 
+### v1.1.7
+- Updated LethalResonance
+- Updated ReservedItemSlotCore
+- Updated HotbarPlus
+- Added EnemySoundFixes
+
 ### v1.1.6
 
 - Changed description
