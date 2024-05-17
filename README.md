@@ -1,8 +1,8 @@
 # Changelog
 
-### v1.1.8
+### - Added Github link, post any issues you find with this modpack there and I will investigate and/or fix it if I can
 
-### - Added Github link, post any issues you find with this modpack there and I will investigate and/or fix it
+### v1.1.8
 
 - Updated EnemySoundFixes 1.1.2 -> 1.2.0
 - Updated Emblem 1.3.2 -> 1.4.0
