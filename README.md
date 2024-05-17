@@ -1,7 +1,9 @@
 # Changelog
 
 ### v1.1.8
-## - Added Github link, post any issues you find with this modpack there and I will investigate or fix it
+
+### - Added Github link, post any issues you find with this modpack there and I will investigate or fix it
+
 - Updated EnemySoundFixes 1.1.2 -> 1.2.0
 - Updated Emblem 1.3.2 -> 1.4.0
 - Updated OpenBodyCams 2.1.0 -> 2.1.2
