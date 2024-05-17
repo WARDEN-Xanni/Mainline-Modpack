@@ -1,5 +1,18 @@
 # Changelog
 
+### v1.1.8
+## - Added Github link, post any issues you find with this modpack there and I will investigate or fix it
+- Updated EnemySoundFixes 1.1.2 -> 1.2.0
+- Updated Emblem 1.3.2 -> 1.4.0
+- Updated OpenBodyCams 2.1.0 -> 2.1.2
+- Updated MissileTurrets 1.3.3 -> 1.3.4
+- Updated LCMaxSoundsFix 1.1.0 -> 1.2.0
+- Default dance emote bound to F3
+- Default point emote bound to F4
+- Health regen speed increased
+- Weeping Angel swap chance greatly decreased
+- Weeping Angels are no longer silent
+
 ### v1.1.7
 - Updated LethalResonance
 - Updated ReservedItemSlotCore
